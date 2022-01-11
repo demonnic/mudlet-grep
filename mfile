@@ -1,0 +1,8 @@
+{
+  "package": "grep",
+  "version": "1.0.0",
+  "author": "Demonnic",
+  "title": "A utility for searching your buffers.",
+  "icon": "computer.png",
+  "outputFile": true
+}
